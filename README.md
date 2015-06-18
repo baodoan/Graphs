@@ -1,2 +1,3 @@
 # Graphs
-Graph Traversal &amp; Finding shortest Path
+Implementing Graph Traversal &amp; Finding shortest Path    \n
+CS 225- Data Structures Exercises/Labs
